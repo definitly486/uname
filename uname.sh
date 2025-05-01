@@ -11,7 +11,7 @@ git config --global user.name "Your Name"
 git add --all
 git add .
 git commit -n
-git pull https://github.com/definitly486/uname.git
+git push  https://github.com/definitly486/uname.git
            else
   echo "my_variable is non-null."
   
