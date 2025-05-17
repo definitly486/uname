@@ -3,3 +3,4 @@ FreeBSD 14.3-BETA1 FreeBSD 14.3-BETA1 releng/14.3-n271364-3ce28e06246d GENERIC a
 FreeBSD 14.3-STABLE FreeBSD 14.3-STABLE #0 stable/14-0906658c3409: Wed May 7 06:17:46 MSK 2025 root@:/ntfs-2TB/obj/ntfs-2TB/src/amd64.amd64/sys/GENERIC amd64
 FreeBSD 14.3-STABLE FreeBSD 14.3-STABLE #0 stable/14-6fea96105618: Mon May 12 04:23:38 MSK 2025 root@:/ntfs-2TB/obj/ntfs-2TB/src/amd64.amd64/sys/GENERIC amd64
 FreeBSD 14.3-STABLE FreeBSD 14.3-STABLE #0 stable/14-45d585ab7f22: Thu May 15 13:30:53 MSK 2025 root@:/ntfs-2TB/obj/ntfs-2TB/src/amd64.amd64/sys/GENERIC amd64
+FreeBSD 14.3-STABLE FreeBSD 14.3-STABLE #0 stable/14-3f5262eb0b22: Sat May 17 09:06:15 MSK 2025 root@:/ntfs-2TB/obj/ntfs-2TB/src/amd64.amd64/sys/GENERIC amd64
