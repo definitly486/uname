@@ -17,3 +17,4 @@ FreeBSD 14.3-STABLE FreeBSD 14.3-STABLE stable/14-n271907-7a96c75098af GENERIC a
 FreeBSD 14.3-STABLE FreeBSD 14.3-STABLE stable/14-n272106-bfbb93b6de6a GENERIC amd64
 FreeBSD 15.0-ALPHA2 FreeBSD 15.0-ALPHA2 stable/15-n280122-da62a299de31 GENERIC amd64
 FreeBSD 14.3-STABLE FreeBSD 14.3-STABLE #0 stable/14-n272375-caf162412dbc-dirty: Tue Sep 9 11:26:20 MSK 2025 root@:/ntfs-2TB/obj/ntfs-2TB/src/amd64.amd64/sys/GENERIC amd64
+FreeBSD 16.0-CURRENT FreeBSD 16.0-CURRENT #0: Sat Sep 20 17:27:11 -00 2025 root@releng3.nyi.freebsd.org:/usr/obj/usr/src/amd64.amd64/sys/GENERIC amd64
