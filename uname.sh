@@ -1,7 +1,7 @@
 #!/bin/sh
 item=$(uname -a)
 date=$(date)
-my_variable=$(grep -r "$(uname -a | awk '{print $5}' )"  uname)
+my_variable=$(grep -r "$(uname -a | awk '{print $6}' )"  uname)
 
        if [ -z "$my_variable" ]; then
   echo "my_variable is null."
