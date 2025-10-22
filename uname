@@ -23,3 +23,4 @@ FreeBSD 15.0-ALPHA5 FreeBSD 15.0-ALPHA5 stable/15-n280541-1c0898edf28f GENERIC a
 FreeBSD 15.0-BETA1 FreeBSD 15.0-BETA1 releng/15.0-n280655-36a923a476dc GENERIC amd64
 FreeBSD 14.3-STABLE FreeBSD 14.3-STABLE #0 stable/14-n272674-a728b96686e6-dirty: Thu Oct 16 04:41:06 MSK 2025 root@:/ntfs-2TB/obj/ntfs-2TB/src/amd64.amd64/sys/GENERIC amd64 четверг, 16 октября 2025 г. 19:05:52 (MSK)
 FreeBSD 15.0-BETA2 FreeBSD 15.0-BETA2 releng/15.0-n280707-3edefa72bc4e GENERIC amd64 понедельник, 20 октября 2025 г. 23:15:34 (MSK)
+FreeBSD 14.3-STABLE FreeBSD 14.3-STABLE #0 stable/14-n272674-a728b96686e6: Thu Oct 16 07:46:37 UTC 2025 root@releng1.nyi.freebsd.org:/usr/obj/usr/src/amd64.amd64/sys/GENERIC amd64 среда, 22 октября 2025 г. 07:01:30 (MSK)
